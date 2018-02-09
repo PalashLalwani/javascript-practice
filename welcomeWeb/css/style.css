@@ -1,0 +1,32 @@
+/* 
+    Palash Lalwani
+*/
+#target {
+    border: 1px solid;
+    width:150px;
+    height:150px;
+}
+
+select {
+  width:62%;
+}
+
+table, td {
+    border-spacing: 0px;
+    border-collapse: collapse;
+    background-color:#ffffff;
+    border: 1px solid;
+    padding:5px;
+}
+
+body{
+    background-color:#cccccc;
+    background-image:url("welcome.jpg");
+  background-repeat: no-repeat;
+    background-position: fixed;
+  font-family: "Comic Sans MS", sans-serif
+}
+
+h1,h2 {
+  text-align:center;
+}
