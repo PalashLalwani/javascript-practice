@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css" href="steveJobs.css"></style>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+<div class="container col-md-12 col-xs-12 col-sm-12">
+<div class="jumbotron">
+  <div class="text-center">
+    <h1>Steve Jobs</h1>
+    <h3><em>"The man who really connected normal humans to the computer."</em></h3><br>
+    <div class="img-thumbnail"><img src="http://img2.themebin.com/hd-wallpapers/1920x1080/steve_iquote_1080.jpg" class="img-responsive" hieght="auto" width="98%">
+    <div class="caption text-center">steve jobs famous marketing quote</div>
+    </div>
+  </div>
+  <br>
+  <p>Steve Jobs, the iconic co-founder of Apple, died Wednesday at the age of 56. The San Francisco native is credited with transforming the way the world uses technology.He is survived by his wife, Laurene, three children from their marriage and a fourth child from an earlier relationship.Here is a timeline to his life and career, by The Wall Street Journal:</p>
+  <div class="row"> 
+    <div class="col-md-2 col-xs-2 col-sm-2"></div>
+  <div class="col-md-8 col-xs-8 col-sm-8">
+    <h3>Timeline of Steve Jobs:</h3>
+    <p>1955 -- Born Feb. 24 in San Francisco to Joanne Simpson and Abdulfattah Jandali.</p>
+    <p>1955 -- Adopted from infancy by Paul and Clara Jobs in San Francisco. Moves to Mountain View, California, five months later.</p>
+    <p>1969 -- Offered a summer job at Hewlett-Packard Co. (HP) by William Hewlett.</p>
+    <p>1971 -- Meets Steve Wozniak; the two later found Apple Computer Inc.</p>
+    <p>1972 -- Graduates from Homestead High School in Los Altos.</p>
+    <p>1972 -- Registers at Reed College, Portland, Oregon, and drops out after one semester.</p>
+    <p>1974 -- Joins Atari Inc. as a technician.</p>
+    <p>1975 -- Starts attending meetings of the "Homebrew Computer Club," which discussed home computers.</p>
+    <p>1976 -- Jobs and Wozniak raise US$1,750 and build their first marketable table-top computer, the Apple I.</p>
+    <p>1976 -- Founds Apple Computer Company with Wozniak and Ronald Wayne. Wayne sells his stake two weeks later.</p>
+    <p>1976 -- Jobs and Wozniak launch Apple I for $666.66, the first single-board computer with a video interface and an onboard Read Only Memory (ROM), which instructed the machine on how to load programs from an external source.</p>
+    <p>1977 -- Apple is incorporated as Apple Computer Inc. and the new company buys out the original partnership.</p>
+    <p>1977 -- Apple launches Apple II, the world's first widely used personal computer.</p>
+    <p>1978 -- Jobs has first child, Lisa, with Chrisann Brennan.</p>
+    <p>1979 -- Development of Macintosh starts.</p>
+    <p>1980 -- Apple III launched.</p>
+    <p>1980 -- Apple goes public, share price jumps from $22 to $29 on the first day of trading.</p>
+    <p>1981 -- Jobs involves himself in Macintosh development.</p>
+    <p>1983 -- Recruits John Sculley as Apple president and chief executive officer.</p>
+    <p>1983 -- Announces "Lisa," the first mouse-controlled computer. It fails in the marketplace.</p>
+    <p>1984 -- Apple launches Macintosh with a splashy ad campaign on Super Bowl Sunday.</p>
+    <p>1985 -- Wins National Technology Medal from U.S. President Ronald Reagan.</p>
+    <p>1985 -- Jobs ousted from Apple after boardroom struggle with Sculley. Jobs resigns and takes five Apple employees with him.</p>
+    <p>1985 -- Founds Next Inc. to develop computer hardware and software. Company later renamed Next Computer Inc</p>
+    <p>1986 -- Buys Pixar from George Lucas for less than $10 million. Company later renamed Pixar Animation Studios</p>
+    <p>1989 -- Next launches $6,500 NeXT Computer, also known as The Cube. It comes with a monochrome monitor, and fails in the marketplace.</p>
+    <p>1989 -- Pixar wins Academy Award for animated short film "Tin Toy."</p>
+    <p>1991 -- Marries current wife Laurene Powell. Has three children with her over the years.</p>
+    <p>1992 -- Next releases NEXTSTEP operating system for Intel Corp. 486 processors. It fails in the wake of competition from Microsoft Corp.'s Windows and IBM Corp.'s OS/2.</p>
+    <p>1993 -- Next shuts hardware division, shifts focus to software.</p>
+    <p>1995 -- Pixar's "Toy Story" highest grossing film that year.</p>
+    <p>1996 -- Apple acquires Next Computer for $427 million in cash and Apple stock; Jobs becomes advisor to Apple Chairman Gilbert F. Amelio.</p>
+    <p>1997 -- Jobs becomes interim CEO and chairman of Apple Computer Inc., after Amelio is ousted. Jobs' salary is $1.</p>
+    <p>1998 -- Apple releases the all-in-one iMac computer, which sells millions of units, financially reviving the company and boosting its share price by 400 percent. IMac wins the Gold Award from British Design and Art Direction. Vogue calls the iMac "one of Spring's hottest fashion statements," and Business Week says it is "one of the century's lasting images." Jobs wins a Chrysler Design Institute award for the iMac design.</p>
+    <p>1998 -- Apple returns to profitability and records four profitable quarters in a row.</p>
+    <p>2000 -- 'Interim' dropped from Jobs' title.</p>
+    <p>2001 -- Apple launches next-generation operating system -- the Unix-based OS X, with subsequent upgrades over the years.</p>
+    <p>2001 -- Apple makes first foray into consumer electronics market with launch of iPod, the portable MP3 player. (It sells more than 4.4 million iPods in fiscal 2004.)</p>
+    <p>2002 -- Launches the flat-panel all-in-one personal computer iMac. It makes the cover of Time Magazine that year and wins numerous design awards.</p>
+    <p>2003 -- Jobs announces the iTunes Music Store, which sells encoded songs and albums.</p>
+    <p>2003 -- Jobs launches the 64-bit PowerMac G5 personal computer.</p>
+    <p>2004 -- The iPod Mini, a smaller version of the original iPod, is launched.</p>
+    <p>2004 -- In February, Jobs terminates Pixar's highly successful alliance with The Walt Disney Co. for production and distribution of Pixar's animated films. Pixar is ultimately sold to Walt Disney in 2006.</p>
+    <p>2004 -- In August, Jobs is diagnosed with pancreatic cancer and undergoes surgery. He recovers and returns to work in September</p>
+    <p>2004 -- Under Jobs' stewardship, Apple reports its highest fourth-quarter revenue in almost a decade, assisted by the resurgence of its retail network and sales of the iPod music player. The revenue for the period ending Sept. 25 is $2.35 billion.</p>
+    <p>2005 -- Apple uses its Worldwide Developers Conference to announce that it is moving from using IBM PowerPC processors in its computers to Intel processors.</p>
+    <p>2007 -- Jobs announces the iPhone, one of the first smartphones without a keyboard, at Macworld Expo.</p>
+    <p>2008 -- In late December Apple announces that Jobs will not deliver the keynote at the 2009 Macworld Expo nor will he attend the event. This immediately sparks speculation on his health. Apple also said that it will no longer participate in the show after 2009.</p>
+    <p>2009 -- In early January Jobs says that his dramatic weight loss was caused by a hormone imbalance. At that time he said this condition would not hinder his abilities to function as CEO. Around one week later Jobs says that he will take a leave of absence from Apple until June because his medical condition had changed. He does not disclose his ailment. COO Tim Cook is to handle Apple's day-to-day operations during Jobs' recovery period. Apple says Jobs will be involved with major strategic decisions.</p>
+    <p>June 2009 -- The Wall Street Journal reports that Jobs underwent a liver transplant. A Tennessee hospital later releases a statement confirming the operation.</p>
+    <p>June 2009 -- Apple confirms that Jobs is returning to work at the end of the month.</p>
+    <p>January 2010 -- Apple announces the iPad tablet computer, which becomes an instant success and spawns a new category of mobile computing devices.</p>
+    <p>September 2010 -- Jobs appears on stage in San Francisco to announce Apple's second-generation Apple TV set-top box, which streams movies from the Internet or mobile devices like the iPhone and iPad directly to TV sets.</p>
+    <p>January 2011 -- Apple announces Jobs is taking a medical leave of absence, without specifying a reason for the leave or how long he'd be away. Questions are raised about the severity of Jobs' health problems, and its impact on the company's stock, product development and business operations.</p>
+    <p>March 2011 -- Taking a break from his medical leave, Jobs makes an appearance at an event in San Francisco to introduce the iPad 2.</p>
+    <p>June 2011 -- While still on leave, Jobs appears at the company's Worldwide Developers Conference in San Francisco to introduce the iCloud and iOS 5. A few days later, Jobs appears in front of the Cupertino City Council with a proposal to build a spaceship-like campus in the city.</p>
+    <p>August 2011 -- Jobs announces he is stepping aside as CEO, with Cook taking over that role. It also is announced that the board has elected Jobs chairman.</p>
+    <p>Oct. 5, 2011 -- Jobs dies at age 56.</p>
+    <br>
+    <h3>If you have time, You can read more about this incredible person at <a href="https://en.wikipedia.org/wiki/Steve_Jobs" target="_blank">Wikipedia Entry</a> </h3>
+    </div>
+    <div class="col-md-2 col-xs-2 col-sm-2"></div>
+  </div>
+  </div>
+  </div>
+<footer class="text-center">
+  <hr>
+  <p>Copyright &copy; <a href="https://www.freecodecamp.com/palashlalwani" target="_blank">Palash Lalwani</a></p>
+</footer>
+</body>
+  </html>
