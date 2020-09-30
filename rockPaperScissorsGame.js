@@ -1,4 +1,4 @@
-var userChoice = prompt("Do you choose rock, paper or scissors?");
+var userChoice = prompt("Choose One : Rock / Paper / Scissors");
 var computerChoice = Math.random();
 if (computerChoice  > 0 && computerChoice <= 0.33) {
 	computerChoice = "rock";
@@ -13,34 +13,34 @@ if (computerChoice  > 0 && computerChoice <= 0.33) {
             console.log("Computer: " + computerChoice);
             var compare = function (choice1,choice2) {
                 if(choice1 == choice2) {
-                    return "The result is a tie!"
+                    return "The result is a tie!! Playing again would be a great Idea";
                     }
                 else if(choice1 === "rock") {
                     if (choice2 === "scissors") {
-                        return "rock wins";
+                        return "Rock Wins";
                         }
                     else {
-                        return "paper wins";
+                        return "Paper Wins";
                         }
                     }
                 else if (choice1 === "paper") {
                     if (choice2 === "rock") {
-                     return "paper wins";
+                     return "Paper Wins";
                     }
                     else {
-                     return "scissors wins";
+                     return "Scissors Wins";
                         }
                 }
                 else if (choice1 === "scissors") {
                     if(choice2 === "paper") {
-                        return "scissors wins";
+                        return "Scissors wins";
                         }
                     else {
-                        return "rock wins";
+                        return "Rock wins";
                         }
                     }
                 else {
-                    return "invalid choice";
+                    return "Invalid choice!";
                     }
              };
     compare(userChoice,computerChoice);
