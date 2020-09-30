@@ -1,7 +1,7 @@
 var userChoice = prompt("Choose One : Rock / Paper / Scissors");
 var computerChoice = Math.random();
 if (computerChoice  > 0 && computerChoice <= 0.33) {
-	computerChoice = "rock";
+	computerChoice ="rock";
     }
     else if(computerChoice > 0.33 && computerChoice <= 0.66) {
 	computerChoice = "paper";
